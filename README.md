@@ -3,6 +3,7 @@
 ## Setup
 
 - clone this repo
+- delete .git folder
 - run `npm install` in repo
 - install [Cascadia Code](https://github.com/microsoft/cascadia-code) font if you don't have already
 - duplicate .vscode/learn_js.code-workspace.example.jsonc to .vscode/learn_js.code-workspace
